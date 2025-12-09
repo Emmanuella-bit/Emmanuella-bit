@@ -93,7 +93,7 @@ I believe every successful model begins with messy drafts — welcome to the lea
 
 - **LinkedIn:** [Emmanuella Asomani Asante](https://www.linkedin.com/in/emmanuella-asante/)  
 - **GitHub:** [Emmanuella-bit](https://github.com/Emmanuella-bit)  
-- **Email:** Add your preferred email here  
+- **Email:** emmanuelaasante38@gmail.com  
 
 ---
 
