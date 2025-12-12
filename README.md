@@ -37,7 +37,7 @@ My work integrates **Earth observation**, **computational modeling**, and **AI-b
 - Mapped heat clusters and environmental inequalities  
 - Automated processes with GEE JavaScript + Python  
 
-👉 **Can be found in my repo files**
+👉 **[Can be found in my repo files](https://github.com/Emmanuella-bit/Urban-Heat-Island-Mapping.git)**
 
 ---
 
