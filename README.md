@@ -47,8 +47,7 @@ My work integrates **Earth observation**, **computational modeling**, and **AI-b
 - Produced spatial exposure surfaces for decision-making  
 - Applied Python (scikit-learn, rasterio, geopandas)
 
-👉 **Can be found in my repo files**
-
+👉 **[Can be found in my repo files](https://github.com/Emmanuella-bit/PM2.5-Exposure-Modeling-Machine-Learning.git)**
 ---
 
 ### 🌙 **Nighttime Lights & Economic Activity**
@@ -56,7 +55,7 @@ My work integrates **Earth observation**, **computational modeling**, and **AI-b
 - Modeled urbanization, electrification & growth patterns  
 - Extracted proxies for economic activity using radiance data  
 
-👉 **Can be found in my repo files**
+👉 **[Can be found in my repo files](https://github.com/Emmanuella-bit/Nighttime_light_Project.git)**
 
 ---
 
@@ -66,8 +65,7 @@ My work integrates **Earth observation**, **computational modeling**, and **AI-b
 - Classified stakeholder types with ML  
 - Visualized global participation patterns using heatmaps  
 
-👉 **Can be found in my repo files**
-
+👉 **[Can be found in my repo files](https://github.com/Emmanuella-bit/IPCC-AR6-Comment-Response-Analysis.git)**
 ---
 
 ## 🧰 Technical Toolbox
