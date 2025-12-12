@@ -1,6 +1,5 @@
 <!-- PROFILE HEADER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Emmanuella-bit/Emmanuella-bit/main/profile.jpg" width="220" style="border-radius:50%">
 </p>
 
 <h1 align="center">Emmanuella Asomani Asante</h1>
