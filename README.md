@@ -94,4 +94,4 @@ I believe every successful model begins with messy drafts — welcome to the lea
 
 ---
 
-### ⭐ *Thanks for visiting my profile! Feel free to explore my repositories or connect with me. We can learn and share ideas together*
+### ⭐ *Thanks for visiting my profile! Feel free to explore my repositories or connect with me. We can learn and share ideas together ;)*
